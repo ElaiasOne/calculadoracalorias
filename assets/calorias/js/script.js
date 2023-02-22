@@ -31,13 +31,13 @@ function handleSubmit (event) {
           Su metabolismo basal es de <strong>${tmb} calorias</strong>.
         </li>
         <li>
-          Para mantener su peso necesita consumir en promedio <strong>${maintenance} calorias</strong>.
+          Para mantener su necesita consumir en promedio <strong>${maintenance} calorias</strong>.
         </li>
         <li>
-          Para mantener su peso necesita consumir en promedio <strong>${loseWeight} calorias</strong>.
+          Para perder peso necesita consumir en promedio <strong>${loseWeight} calorias</strong>.
         </li>
         <li>
-          Para mantener su peso necesita consumir en promedio <strong>${gainWeight} calorias</strong>.
+          Para ganar peso necesita consumir en promedio <strong>${gainWeight} calorias</strong>.
         </li>
       </ul>
   `;
